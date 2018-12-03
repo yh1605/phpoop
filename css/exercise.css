@@ -1,0 +1,25 @@
+.col{
+	background-color: #b0c7dd;
+}
+
+.col-2{
+	background-color: #D4B6D7;
+}
+
+.col-7{
+	background-color: #fedf8f;
+}
+
+.col-3{
+	background-color: #F8A48D;
+}
+
+.col-4{
+	background-color: #a7b9df;
+	border: 1px solid black;
+}
+
+.col-6{
+	background-color: #b484bb;
+	border: 1px solid black;
+}
